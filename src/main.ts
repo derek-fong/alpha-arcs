@@ -1,2 +1,4 @@
-// Greet user on load. 
-console.log('Hello World!');
+// Greet user on load.
+const name: string = 'Foo';
+
+console.log(`Hello World, ${name}!`);
